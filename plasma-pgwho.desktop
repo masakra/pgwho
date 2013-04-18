@@ -1,0 +1,18 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=PgWho
+Comment=Plasma PostgreSQL connection list
+Type=Service
+
+X-KDE-ServiceTypes=Plasma/Applet
+X-KDE-Library=plasma_pgwho
+X-KDE-PluginInfo-Author=Sergey N Chursanov
+X-KDE-PluginInfo-Email=masakra@mail.ru
+X-KDE-PluginInfo-Name=pgwho
+X-KDE-PluginInfo-Version=0.1
+X-KDE-PluginInfo-Website=http://www.ya.ru/	 # TODO remove
+X-KDE-PluginInfo-Category=Examples
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=BSD
+X-KDE-PluginInfo-EnabledByDefault=true
+
